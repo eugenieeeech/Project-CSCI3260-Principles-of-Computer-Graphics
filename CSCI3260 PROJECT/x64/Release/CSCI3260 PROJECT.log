@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(619,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(624,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(629,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(649,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(669,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(670,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(692,14): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(693,14): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(776,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\CSCI3260 PROJECT\main.cpp(779,21): warning C4305: '+=': truncation from 'double' to 'float'
+  Shader.cpp
+  Texture.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 685 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSCI3260 PROJECT.vcxproj -> C:\Users\eugenie\Downloads\CSCI3260-PROJECT\CSCI3260-PROJECT\x64\Release\CSCI3260 PROJECT.exe

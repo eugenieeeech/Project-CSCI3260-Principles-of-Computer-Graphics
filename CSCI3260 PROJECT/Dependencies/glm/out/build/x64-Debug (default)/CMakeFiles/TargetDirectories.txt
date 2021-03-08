@@ -1,0 +1,2 @@
+C:/Users/User/source/repos/eugenieeeech/CSCI3260-PROJECT/CSCI3260 PROJECT/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/eugenieeeech/CSCI3260-PROJECT/CSCI3260 PROJECT/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
